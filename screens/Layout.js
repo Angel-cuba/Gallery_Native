@@ -10,12 +10,13 @@ const Layout = ({ children }) => {
 }
 const styles = StyleSheet.create({
      container: {
-          backgroundColor: "#F2CD60",
-          padding: 20,
+          backgroundColor: "rgba(0,0,0,.93541)",
+          padding: 10,
           position: 'relative',
           flex: 1,
           alignItems: "center", 
           justifyContent: "center",
+      
           
           },
 })
